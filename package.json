@@ -1,0 +1,25 @@
+{
+  "name": "hatchways-assessment",
+  "version": "1.0.0",
+  "description": "This is the assessment given by Hatchways",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "data",
+    "assessment"
+  ],
+  "author": "Alfred Mah",
+  "license": "MIT",
+  "dependencies": {
+    "apicache": "^1.6.3",
+    "chai": "^4.3.6",
+    "express": "^4.17.2",
+    "mocha": "^9.2.1",
+    "node-fetch": "^2.6.7",
+    "request": "^2.88.2"
+  }
+}
