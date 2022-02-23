@@ -9,7 +9,7 @@ This assessment project builds a customized API upon an existing API
     - `/api/posts` : Makes requests based on the query string provided in its URL
 4. Once the server has been started, a link to the proxy server (localhost) can be found on the command link
 5. You may also manually input the URL as `http://localhost:3000/api/ping` or `http://localhost:3000/api/posts`
-
+6. Execute `npm test` to run the test cases
 
 # `/api/posts` fields
 1. `tags` : This is a required field for the query string. The program will not run if this field is not provided
